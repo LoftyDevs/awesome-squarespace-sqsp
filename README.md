@@ -1,0 +1,2 @@
+# awesome-sqsp
+Awesome Squarespace 
