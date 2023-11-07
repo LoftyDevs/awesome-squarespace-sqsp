@@ -3,10 +3,10 @@
 🎉 💻 An Awesome Squarespace & curated list of best templates and tools for Squarespace.
 
 ### Squarespace Resource/Learning/Connection to grow as a small to large Business.
-- [Squarespace Resources](https://github.com/LoftyDevs/awesome-sqsp/edit/main/README.md#squarespace-resources)
-- [Squarespace Circle Members](https://github.com/LoftyDevs/awesome-sqsp/edit/main/README.md#squarespace-circle-members)
-- [Squarespace - GIF Resource](https://github.com/LoftyDevs/awesome-sqsp/edit/main/README.md#squarespace---gif-resource)
-- [Squarespace - Image/Photo Resources](https://github.com/LoftyDevs/awesome-sqsp/edit/main/README.md#squarespace---imagephoto-resources)
+- [Squarespace Resources](https://github.com/LoftyDevs/awesome-sqsp/tree/main#squarespace-resources)
+- [Squarespace Circle Members](https://github.com/LoftyDevs/awesome-sqsp/tree/main#squarespace-circle-members)
+- [Squarespace - GIF Resource](https://github.com/LoftyDevs/awesome-sqsp/tree/main#squarespace---gif-resource)
+- [Squarespace - Image/Photo Resources](https://github.com/LoftyDevs/awesome-sqsp/tree/main#squarespace---imagephoto-resources)
 
 # Squarespace Resources
 - [CircleDay](https://circleday.squarespace.com/)
