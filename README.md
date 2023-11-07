@@ -5,8 +5,17 @@
 ### Squarespace Resource/Learning/Connection to grow as a small to large Business.
 - [Squarespace Resources](https://github.com/LoftyDevs/awesome-sqsp/tree/main#squarespace-resources)
 - [Squarespace Circle Members](https://github.com/LoftyDevs/awesome-sqsp/tree/main#squarespace-circle-members)
+- [Squarespace plugins]()
+- [Squarespace Website Promotion]()
+- [Analytics/Measurement]()
+- [Search Engine Optimization (SEO)]()
+- [Creative Assets]()
+- [Writing & Copy]()
+- [Design inspiration]()
+- [Design tools]()
+- [Organization and communication]()
 - [Squarespace - GIF Resource](https://github.com/LoftyDevs/awesome-sqsp/tree/main#squarespace---gif-resource)
-- [Squarespace - Image/Photo Resources](https://github.com/LoftyDevs/awesome-sqsp/tree/main#squarespace---imagephoto-resources)
+- [Squarespace - Image/Photo/Photography Resources](https://github.com/LoftyDevs/awesome-sqsp/tree/main#squarespace---imagephoto-resources)
 
 # Squarespace Resources
 - [CircleDay](https://circleday.squarespace.com/)
@@ -33,6 +42,15 @@
 | Dave Hawkins | Watford, England | <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/GB-ENG@2x.png'> | United Kingdom, Europe | [<img src='https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/LinkedIN_black.png' width="30" height="30">](https://www.linkedin.com/in/davejhawkins/) [<img src='https://github.com/ionic-team/ionicons/blob/main/src/svg/globe-outline.svg' width="30" height="30">](https://madebydave.org/) |
 | Kristine Neil | Vancouver, Washington | <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/US@2x.png'> | United States, North America | [<img src='https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/LinkedIN_black.png' width="30" height="30">](https://www.linkedin.com/in/kristineneil/) [<img src='https://github.com/ionic-team/ionicons/blob/main/src/svg/globe-outline.svg' width="30" height="30">](http://kristineneil.com/) |
 | Karlei Ayers | Tacoma, Washington | <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/US@2x.png'> | United States, North America | [<img src='https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/LinkedIN_black.png' width="30" height="30">](https://www.linkedin.com/in/karlei-ayers/) [<img src='https://github.com/ionic-team/ionicons/blob/main/src/svg/globe-outline.svg' width="30" height="30">](https://www.olhacreative.com/) |
+
+# Squarespace Website Promotion
+* [Google Ads - Search & Display](https://ads.google.com/intl/en_ca/home/)
+* [Google Skillshop - How to guides & Certifications for Google products](https://skillshop.withgoogle.com/)
+* [Google Merchant Centre](https://www.google.com/retail/solutions/merchant-center/)
+* [Meta for Business - Facebook & Instagram Ads](https://www.facebook.com/business/marketing/facebook)
+* [Meta Blueprint - Facebook Ad Tutorials](https://www.facebookblueprint.com/student/catalog)
+* [Mailchimp - Email Marketing & Campaigns](https://mailchimp.com/)
+* [Google Digital Garage - Digital Skills](https://learndigital.withgoogle.com/digitalgarage)
 
 # Squarespace - GIF Resource
 ### General
