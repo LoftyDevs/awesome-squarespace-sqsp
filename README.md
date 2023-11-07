@@ -5,15 +5,15 @@
 ### Squarespace Resource/Learning/Connection to grow as a small to large Business.
 - [Squarespace Resources](https://github.com/LoftyDevs/awesome-sqsp/tree/main#squarespace-resources)
 - [Squarespace Circle Members](https://github.com/LoftyDevs/awesome-sqsp/tree/main#squarespace-circle-members)
-- [Squarespace Plugins]()
+- [Squarespace Plugins](https://github.com/LoftyDevs/awesome-sqsp/tree/main#squarespace-plugins)
 - [Squarespace Website Promotion](https://github.com/LoftyDevs/awesome-sqsp/tree/main#squarespace-website-promotion)
-- [Analytics/Measurement]()
-- [Search Engine Optimization (SEO)]()
-- [Creative Assets]()
-- [Writing & Copy]()
-- [Design Inspiration]()
-- [Design Tools]()
-- [Organization and Communication]()
+- [Analytics/Measurement](https://github.com/LoftyDevs/awesome-sqsp/tree/main#analyticsmeasurement)
+- [Search Engine Optimization (SEO)](https://github.com/LoftyDevs/awesome-sqsp/tree/main#search-engine-optimization-seo)
+- [Creative Assets](https://github.com/LoftyDevs/awesome-sqsp/tree/main#creative-assets-for-squarespace-websitebusiness)
+- [Writing & Copy](https://github.com/LoftyDevs/awesome-sqsp/tree/main#writing--copy-for-squarespace-website)
+- [Squarespace Website Design Inspiration](https://github.com/LoftyDevs/awesome-sqsp/tree/main#squarespace-website-design-inspiration)
+- [Design Tools for Small Business](https://github.com/LoftyDevs/awesome-sqsp/tree/main#design-tools-help-in-your-small-business)
+- [Organization and Communication](https://github.com/LoftyDevs/awesome-sqsp/tree/main#organization-and-communication)
 - [Squarespace - GIF Resource](https://github.com/LoftyDevs/awesome-sqsp/tree/main#squarespace---gif-resource)
 - [Squarespace - Image/Photo/Photography Resources](https://github.com/LoftyDevs/awesome-sqsp/tree/main#squarespace---imagephoto-resources)
 
@@ -108,25 +108,25 @@
 
 
 # Squarespace - GIF Resource
-### General
+#### General
 
 * [giphy.com](http://giphy.com)
 * [gifme.io](http://gifme.io)
 * [9gag.com/gif](http://9gag.com/gif)
 * [reddit.com/r/gifs](https://www.reddit.com/r/gifs/)
 
-### Reactions
+#### Reactions
 
 * [reactiongifs.com](http://www.reactiongifs.com)
 * [reactiongifs.me](http://reactiongifs.me)
 * [replygif.net](http://replygif.net/)
 
-### Nerd
+#### Nerd
 
 * [coderfacts.com](http://coderfacts.com)
 * [thecodinglove.com](http://thecodinglove.com)
 
-### Make GIF's
+#### Make GIF's
 
 * [giflr.com](https://giflr.com)
 
