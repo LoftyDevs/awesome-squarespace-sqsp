@@ -5,15 +5,15 @@
 ### Squarespace Resource/Learning/Connection to grow as a small to large Business.
 - [Squarespace Resources](https://github.com/LoftyDevs/awesome-sqsp/tree/main#squarespace-resources)
 - [Squarespace Circle Members](https://github.com/LoftyDevs/awesome-sqsp/tree/main#squarespace-circle-members)
-- [Squarespace plugins]()
-- [Squarespace Website Promotion]()
+- [Squarespace Plugins]()
+- [Squarespace Website Promotion](https://github.com/LoftyDevs/awesome-sqsp/tree/main#squarespace-website-promotion)
 - [Analytics/Measurement]()
 - [Search Engine Optimization (SEO)]()
 - [Creative Assets]()
 - [Writing & Copy]()
-- [Design inspiration]()
-- [Design tools]()
-- [Organization and communication]()
+- [Design Inspiration]()
+- [Design Tools]()
+- [Organization and Communication]()
 - [Squarespace - GIF Resource](https://github.com/LoftyDevs/awesome-sqsp/tree/main#squarespace---gif-resource)
 - [Squarespace - Image/Photo/Photography Resources](https://github.com/LoftyDevs/awesome-sqsp/tree/main#squarespace---imagephoto-resources)
 
@@ -43,6 +43,11 @@
 | Kristine Neil | Vancouver, Washington | <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/US@2x.png'> | United States, North America | [<img src='https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/LinkedIN_black.png' width="30" height="30">](https://www.linkedin.com/in/kristineneil/) [<img src='https://github.com/ionic-team/ionicons/blob/main/src/svg/globe-outline.svg' width="30" height="30">](http://kristineneil.com/) |
 | Karlei Ayers | Tacoma, Washington | <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/US@2x.png'> | United States, North America | [<img src='https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/LinkedIN_black.png' width="30" height="30">](https://www.linkedin.com/in/karlei-ayers/) [<img src='https://github.com/ionic-team/ionicons/blob/main/src/svg/globe-outline.svg' width="30" height="30">](https://www.olhacreative.com/) |
 
+# Squarespace Plugins
+* [Ghostplugins](https://www.ghostplugins.com/)
+* [Squaresstylsit](https://www.squarestylist.com/)
+* [Spark Plugin](https://www.sparkplugin.com/)
+
 # Squarespace Website Promotion
 * [Google Ads - Search & Display](https://ads.google.com/intl/en_ca/home/)
 * [Google Skillshop - How to guides & Certifications for Google products](https://skillshop.withgoogle.com/)
@@ -51,6 +56,56 @@
 * [Meta Blueprint - Facebook Ad Tutorials](https://www.facebookblueprint.com/student/catalog)
 * [Mailchimp - Email Marketing & Campaigns](https://mailchimp.com/)
 * [Google Digital Garage - Digital Skills](https://learndigital.withgoogle.com/digitalgarage)
+
+# Analytics/Measurement
+* [Google Analytics](https://marketingplatform.google.com/about/analytics/)
+* [Google Marketing Platform](https://marketingplatform.google.com/about/small-business/)
+* [Hotjar - Website heatmaps](https://www.hotjar.com/)
+* [Crazy Egg (Website heatmaps & A/B testing)](https://www.crazyegg.com/)
+
+# Search Engine Optimization (SEO)
+* [Squarespace SEO](https://www.squarespace.com/marketing/seo)
+* [BACKLINKO ON-PAGE SEO: The Definitive Guide](https://backlinko.com/on-page-seo)
+* [Ahrefs SEO Basics: Beginners Guide to SEO](https://ahrefs.com/seo)
+* [Ahrefs: The Beginner’s Guide to Link Building](https://ahrefs.com/blog/link-building/)
+* [Moz Keyword Research](https://moz.com/explorer)
+* [MOZ Beginners Guide to SEO](https://moz.com/beginners-guide-to-seo)
+* [MOZ On-Page SEO](https://moz.com/beginners-guide-to-seo/on-page-seo)
+* [MOZ SEO Learning Centre](https://moz.com/learn/seo)
+* [Shopify: Ultimate Guide to Shopping Ads on Google in 2021](https://www.shopify.ca/blog/shopping-ads-google)
+
+# Creative Assets for Squarespace Website/business
+* [Humaaans](https://www.humaaans.com/)
+* [What Font Is](https://www.whatfontis.com/)
+* [Absurd.Design](https://absurd.design/)
+* [Typewolf](https://www.typewolf.com/)
+* [Creative Market](https://creativemarket.com/)
+* [Google Fonts](https://fonts.google.com/)
+* [UI8](https://ui8.net/)
+* [Blush Design](https://blush.design/)
+
+# Writing & Copy for Squarespace Website
+* [Grammarly](https://www.grammarly.com/)
+
+# Squarespace Website Design Inspiration 
+* [One Page Love](https://onepagelove.com/)
+* [Dribbble](https://dribbble.com/)
+* [Behance](https://www.behance.net/)
+* [Awwwards](https://www.awwwards.com/)
+* [Handsome Frank](https://www.handsomefrank.com/illustrators)
+
+# Design Tools Help in Your Small Business
+* [Canva](https://www.canva.com/)
+* [Readymag](https://readymag.com/)
+* [Picsart](https://picsart.com/)
+* [Figma](https://www.figma.com/)
+
+# Organization and Communication 
+- [Slack](https://slack.com/)
+- [Notion](https://www.notion.so/)
+- [Basecamp](https://basecamp.com/)
+- [Asana](https://asana.com/)
+
 
 # Squarespace - GIF Resource
 ### General
